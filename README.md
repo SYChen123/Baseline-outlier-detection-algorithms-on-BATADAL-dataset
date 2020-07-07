@@ -12,6 +12,6 @@ Apply some baseline outlier detection algorithms on BATADAL dataset
 
 ## Usage
 
-od_BATADAL.ipynb contains the usage and results.
+**od_BATADAL.ipynb**  contains the usage and results.
 
-utils.py contains some useful functions.
+**utils.py**  contains some useful functions.
